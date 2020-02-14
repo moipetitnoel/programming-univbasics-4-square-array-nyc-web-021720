@@ -9,8 +9,8 @@ def square_array(numbers)
     #puts "counter:"
     #puts counter
     x = numbers[counter]*numbers[counter]
-    puts x
-    #puts new_numbers.push(x)
+    #puts x
+    puts new_numbers.push(x)
     counter += 1
   end  
   return new_numbers.push(x)
