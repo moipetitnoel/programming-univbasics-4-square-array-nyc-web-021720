@@ -13,6 +13,6 @@ def square_array(numbers)
     puts new_numbers.push(x)
     counter += 1
   end  
-  return new_numbers.push(x)
+  #return new_numbers.push(x)
 end
 
