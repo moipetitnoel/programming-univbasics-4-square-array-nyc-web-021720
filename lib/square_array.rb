@@ -3,8 +3,8 @@ numbers = [1,2,3]
 def square_array(numbers)
   counter = 1
   new_numbers = []
-  puts "length of numbers array:"
-  puts numbers.length
+  #puts "length of numbers array:"
+  #puts numbers.length
   while counter <= (numbers.length - 1) do 
     puts "counter:"
     puts counter
